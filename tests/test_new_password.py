@@ -12,7 +12,7 @@ def test_password_characters():
         assert char in valid_characters
 
 def test_password_length():
-    """Тест, что длина пароля соответствует заданной"""
+    """Тест, что длина пароля соответствует заданной """
 
     for length in range(1, 21): # Проверяем длины от 1 до 20
         password = generate_password(length)
