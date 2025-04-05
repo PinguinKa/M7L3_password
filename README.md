@@ -31,4 +31,4 @@ pytest
 Kodland
 1
 privet
-okak
+okakVsemPrivet
