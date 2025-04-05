@@ -19,7 +19,6 @@ def test_password_non_repeating():
     password1 = generate_password(12)
     password2 = generate_password(12)
     assert password1 != password2
-git branch
 
 """
 Допиши еще один тест из предложенных. Или придумай свой.
